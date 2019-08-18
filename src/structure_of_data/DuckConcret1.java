@@ -1,4 +1,4 @@
-package client;
+package structure_of_data;
 
 public class DuckConcret1 extends Duck{
 	
